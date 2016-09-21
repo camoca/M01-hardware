@@ -16,3 +16,11 @@
 
 els usuaris si volen el meu repositpori nomes tenn que fer un git clone
 
+possar...
+
+**git clone:** clona el repositori
+
+**git add:** anyadeix el fitxer modificat
+
+**git commit -am:** anyadeix un missatge
+**git help:** et diu totes les comandes que pots utilitzar
