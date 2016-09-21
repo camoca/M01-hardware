@@ -7,7 +7,7 @@ MUNTATGE I MANTENIMENT D'EQUIPS***
 CARLOS MORENO
 triblegueso21@gmail.com
 
-[escoladeltreball.org](http://mdp.tylingsoft.com/)
+[pagina ecoladeltreball](http://www.escoladeltreball.org/ca)  
 
 ++19/9/2016++
 
