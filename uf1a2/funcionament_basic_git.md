@@ -23,4 +23,5 @@ possar...
 **git add:** anyadeix el fitxer modificat
 
 **git commit -am:** anyadeix un missatge
+
 **git help:** et diu totes les comandes que pots utilitzar
