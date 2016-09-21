@@ -23,3 +23,10 @@ password git: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDfvDRsICPeog+IgAe2tWLmO5LEyB
 4. touch: creas un fitxer
 
 ![image](http://mdp.tylingsoft.com/icon.png)
+
+    aficions:
+
+* musica
+* pelis d'acció
+* esports
+* rally
