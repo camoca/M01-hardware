@@ -30,3 +30,5 @@ password git: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDfvDRsICPeog+IgAe2tWLmO5LEyB
 * pelis d'acció
 * esports
 * rally
+
+avui n'hi ha examen de hardware
