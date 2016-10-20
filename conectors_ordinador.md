@@ -1,9 +1,9 @@
 ![foto pc](exercici_M01.jpg)
-+ PS2
-+ VGA
-+ DVI
-+ CANON D9
-+ USB
-+ RJ-45
-+ JACK
-+ CABLE CORRENT
++ PS2 ratolí i teclat
++ VGA per monitor
++ PORT SERIE/DVI per monitors
++ CANON D9 industrial
++ USB 
++ RJ-45 ethernet
++ JACK auriculars,altaveus,micrófon
++ CABLE CORRENT corrent del pc
