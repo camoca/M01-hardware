@@ -4,3 +4,4 @@
 |    6 cores     |        4 cores          |
 |    6 threads   |        8 threads        |        
 |    125 W       |        91 W             |
+ 
