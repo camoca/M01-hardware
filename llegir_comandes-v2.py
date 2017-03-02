@@ -65,7 +65,7 @@ while sortir == False:
 				cur.execute(sql);
 				rows = cur.fetchall()
 				
-				if nombretabla == 'pedidos':
+			if nombretabla == 'pedidos':
 					os.system('clear')
 				
 					print "num_pedido | fecha_pedido | clie | rep | fab | producto | cant | importe"
@@ -77,7 +77,7 @@ while sortir == False:
 				tecla = raw_input('Prem una tecla per continuar')
 				
 				
-				if nombretabla == 'clientes':
+			if nombretabla == 'clientes':
 					os.system('clear')
 				
 					print " num_clie | empresa | rep_clie | limite credito"
