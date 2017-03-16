@@ -11,4 +11,4 @@ else:
 	if valor1 == valor2:
 		print "Estos numeros son iguales"
 	else:
-		print "El numero" , valor2 , "es mas grande que el numero" , valor1
+		print "El numero" , valor2 , "es mas grande que " , valor1
