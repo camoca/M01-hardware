@@ -13,7 +13,7 @@ print '4.- Dividir'
 
 opcion = raw_input("Elije una opcion: ")
 
-if (opcion >= "1" and opcion <= "4") or opcion == 's' or opcion == 'S':
+	if (opcion >= "1" and opcion <= "4") or opcion == 's' or opcion == 'S':
 	print "Esta bien."
 else:
-	print "Esto no existe."
+	print " No existe"
