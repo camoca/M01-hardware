@@ -1,7 +1,7 @@
 #coding: utf8
 
 numero = 1
-final = raw_input ("Introduce el numero final: ")
+final = input ("Introduce el numero final: ")
 salir = False
 
 while salir == False:
@@ -10,5 +10,5 @@ while salir == False:
 	
 	if (numero == final):
 		
-	salir = True 
+		salir = True 
 	numero = numero + 1
