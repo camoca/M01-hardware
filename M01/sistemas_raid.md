@@ -16,3 +16,13 @@
 4.	Executem la comanda **mdadm**
 5. 	**mdadm --create < nom dispositiu> --level=< nivell del raid> --raid-devices=< nº de discos> < disc1> < disc2>**
 6.	Quedaria així mdadm -- create /dev/md0 --level=1 --raid-devices=2 /dev/vda /dev/vdb
+7.	**cat /proc/mdstat** (fitxer on tenim l'estat del raid)
+8.	lsblk
+9.	mkfs.ext4 /dev/md0
+10.	mount /dev/md0 /mnt
+11.	df -h
+12.	cd /mnt
+13.	dd if= /dev/cero of=test.img bs=4k count=1000
+14.	ls -lh
+15.	less test.img
+	DESPRES FEM FALLAR EL DISC PER VEURE COM ES COMPORTA EL RAID
