@@ -14,5 +14,5 @@
 2.	Creem 3 discs de 200MB cada un
 3.	Ens posem com root
 4.	Executem la comanda **mdadm**
-5. 	** mdadm --create <nom dispositiu> --level=<nivell del raid> --raid-devices=<nº de discos> <disc1> <disc2>**
+5. 	**mdadm --create < nom dispositiu> --level=< nivell del raid> --raid-devices=< nº de discos> < disc1> < disc2>**
 6.	Quedaria així mdadm -- create /dev/md0 --level=1 --raid-devices=2 /dev/vda /dev/vdb
