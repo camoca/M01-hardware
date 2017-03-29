@@ -1,5 +1,5 @@
 | NIVELLS | Nº MINIM DISCS | Nº MAXIM DISCS FALLATS | CAPACITAT | READ | WRITE |
-| ------- | -------------- | ---------------------- | --------- | ---- | ----- | 
+| :-----: | :------------: | :--------------------: | :-------: | :--: | :---: | 
 | RAID 0  |       2        |         0              |    100%   |  E   |   E   |
 | RAID 1  |       2(MAX)   |         1              |     50%   |  VG  |   G   |
 | RAID 5  |       3        |         1              | 67%-94%   |  VG  |   G   |
@@ -7,7 +7,7 @@
 | RAID10  |       4        |         1/mirror       |     50%   |  VG  |   G   |
 
 
-#DESCRIPCION DE LA METODOLOGIA UTILIZADA EN CLASE PER FER PROVAS EN MAQUINAS VIRTUALS
+# DESCRIPCION DE LA METODOLOGIA UTILIZADA EN CLASE PER FER PROVAS EN MAQUINAS VIRTUALS
 
 
 1. 	Una vegada creada la maquina virtual 
