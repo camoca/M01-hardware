@@ -59,7 +59,7 @@ while (salir== False):
 	if (J1 == J2):
 		print "Hay un empate"
 		
-	if (J1 < J2):
+	if (J1 > J2):
 		print "GANA J1"
 	else:
 		print "GANA J2"
