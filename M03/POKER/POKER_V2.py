@@ -32,8 +32,8 @@ while (salir== False):
 		paloss = "CORAZONES"
 		
 
-	J1= randint (1,13)
-	J2= randint (1,13)
+	J1= randint (2,14)
+	J2= randint (2,14)
 	
 	if (J1 == J2):
 		print "Hay un empate"
@@ -47,6 +47,9 @@ while (salir== False):
 	if (J1 == 13):
 		J1 = "K"
 		
+	if (J1 == 14):
+		J1 = "A"
+		
 	if (J2 == 11):
 		J2 = "J"
 		
@@ -55,6 +58,9 @@ while (salir== False):
 		
 	if (J2 == 13):
 		J2 = "K"
+		
+	if (J2 == 14):
+		J2 = "A"
 		
 	print "J1 tiene", J1, "de", palos
 	print "J2 tiene", J2, "de", paloss
