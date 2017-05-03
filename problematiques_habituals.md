@@ -103,9 +103,9 @@
 - comprobar que el cable de la fuente esta conectado y la fuente esta encendida
 - si aun asi no enchega comprobar que el cable no esta en mal estado/defectuoso (sustituirlo por otro que funcione bien)
 - Comprobar la corriente con el tester
--  SI NO TIENE: abrir la fuente y mirar si algun componente esta mal soldado o roto
+- SI NO TIENE: abrir la fuente y mirar si algun componente esta mal soldado o roto
 - SI TIENE: mirar que todo este bien enchufado a la placa y no haga un mal contacto
-- una vez hecho esto si sigue sin encender comprobamos el boton de encendido
-- mirar por dentro
-- SI LO ESTÁ: abrir la torre y comprobar que los cables del boton estan enchufados en sus pines correspondientes 
+- una vez hecho esto si sigue sin encender comprobamos el boton de encendido, si no hace nada:
+- abrimos la torre y comprobamos que los cables del boton estan enchufados en sus pines correspondientes 
 - SI NO LO ESTA: ponerlos en sus correspondientes pines 
+- si sigue sin ir es la placa
