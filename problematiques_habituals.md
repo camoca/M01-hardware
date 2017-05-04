@@ -109,3 +109,61 @@
 - abrimos la torre y comprobamos que los cables del boton estan enchufados en sus pines correspondientes 
 - SI NO LO ESTA: ponerlos en sus correspondientes pines 
 - si sigue sin ir es la placa
+
+**PLACA MEDIO ROTA**
+
+- encender PC
+- comprobar que el cable de la fuente esta conectado y la fuente esta encendida
+- si aun asi no enchega comprobar que el cable no esta en mal estado/defectuoso (sustituirlo por otro que funcione bien)
+- Comprobar la corriente con el tester
+- SI NO TIENE: abrir la fuente y mirar si algun componente esta mal soldado o roto
+- SI TIENE: mirar que todo este bien enchufado a la placa y no haga un mal contacto
+- una vez hecho esto si sigue sin encender comprobamos el boton de encendido, si no hace nada:
+- abrimos la torre y comprobamos que los cables del boton estan enchufados en sus pines correspondientes 
+- SI NO LO ESTA: ponerlos en sus correspondientes pines 
+- si sigue sin ir es la placa
+
+**TECLADO ROTO**
+
+- conectar el teclado
+- mirar si se enienden las luces 
+- comprobar si esta bien enchufado
+- si esta enchufado y no da luces sera por que el cable esta en mal estado, cambialo por otro
+
+**FALTA RATON**
+
+hay raton pero no se mueve el cursor
+
+**FALLA CD/DVD**
+
+metes un CD y no lo lee, ni se abre, no tiene corriente, no tiene cables conectados
+
+**FALTA DISCO DURO**
+
+te sale un error por pantalla y por codigo post
+
+**BIOS MAL FLASHEADA**
+
+se actualiz mal y no hay bios funcional
+
+**DISCO DURO CON ERROR** 
+
+imprimiria un error por pantalla
+
+**PANTALLA ROTA**
+
+no hay señal de video, no tiene corrinte, el cable de audiovisual esta en mal estado
+ 
+**USB DE FRONTAL CRUZADO**
+
+puede llegarse al caso de que salga humo del PC 
+
+**USB DEL FRONTAL CONRECTADO MAL EN LA PLACA**
+
+no lee el USB puede llegar a quemarlo
+
+**PILA DE BIOS AGOTADA**
+
+la hora del sistema falla
+
+
