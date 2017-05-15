@@ -1,5 +1,9 @@
 # coding: utf8
 
+##################################
+#  GENERAMOS UNA JUGADA ALEATORIA#
+##################################
+
 from random import randint
 
 salir = False
@@ -9,6 +13,10 @@ while (salir == False):
 
 	palo1 = randint(1,4) 
 	palo2 = randint(1,4)
+	
+#####################
+#  ASIGNAMOS PALOS  #
+#####################
 
 	if (palo1 == 1):
 		palos = "Picas"
@@ -25,6 +33,10 @@ while (salir == False):
 	J1 = randint(2,14)
 	J2 = randint(2,14)
 	
+#######################
+#  ASIGNAMOS NUMEROS  #
+#######################
+	
 	numero1 = J1
 	if (J1 == 11):
 		numero1 = "J"
@@ -38,8 +50,7 @@ while (salir == False):
 	if (J1 == 14):
 		numero1 = "AS"
 		
-	print "Tienes un", numero1 , "de", palos
-
+	print "Tienes un", numero1 , "de", palos	
 
 	while (salir2 == False):
 		
@@ -49,6 +60,10 @@ while (salir == False):
 			
 		if not((J1 == J2) and (palo1 == palo2)):
 			salir2 = True
+			
+#####################
+#  ASIGNAMOS PALOS  #
+#####################
 	
 	if (palo2 == 1):
 		paloss = "Picas"
@@ -61,7 +76,11 @@ while (salir == False):
 		
 	if (palo2 == 4):
 		paloss = "Tréboles"
-				
+
+#######################
+#  ASIGNAMOS NUMEROS  #
+#######################
+		
 	numero2 = J2
 	if (J2 == 11):
 		numero2 = "J"
@@ -74,6 +93,10 @@ while (salir == False):
 		
 	if (J2 == 14):
 		numero2 = "AS"
+		
+#######################
+#  JUGADA DE J1 Y J2  #
+#######################
 			
 	print "Tu rival tiene", numero2 , "de" , paloss
 
