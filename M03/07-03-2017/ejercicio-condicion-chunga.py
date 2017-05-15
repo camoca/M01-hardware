@@ -1,7 +1,15 @@
 #! /usr/bin/python
 # coding: utf8
 
+###################################
+#  PEDIMOS QUE INDIQUE UN NUMERO  #
+###################################
+
 numero= raw_input("Introduzca un número: ")
+
+###################################
+#  PONEMOS CONDICION Y PRINTAMOS  #
+###################################
 
 if (numero % 2 == 0):
 	print "este numero es par"
