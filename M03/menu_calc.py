@@ -1,10 +1,17 @@
  
+##########################################
+#  PRINTAMOS EL MENU DE LA CALCULADORA   #
+##########################################
+ 
 print 'Que operacion desea hacer?'
 print '1) Sumar'
 print '2) Restar'
 print '3) Multiplicar'
 print '4) Dividir'
  
+#############################################
+#  CREAMOS LAS VARIABLES Y DAMOS A ELEJIR   #
+#############################################
  
 opcion = raw_input('Elija una opcion ---> ')
 numero = int(raw_input('Introduce un numero ---> '))
