@@ -1,8 +1,16 @@
 #coding: utf8
 
+##########################
+#  ASIGNAMOS VARIABLES   #
+##########################
+
 numero = 1
 
 salir = False
+
+####################################
+#  GENERAMOS BUCLE CON VARIABLES   #
+####################################
 
 while salir == False:
 	
