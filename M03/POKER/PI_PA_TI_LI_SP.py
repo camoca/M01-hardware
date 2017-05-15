@@ -2,6 +2,10 @@
 
 from random import randint
 
+##############################
+#  DECIMOS QUE ELIJA OPCION  #
+##############################
+
 J1=raw_input ("Elije PI/PA/TI/LA/SP: ")
 
 
@@ -23,6 +27,10 @@ if (aleatorio==5):
 	J2="SP"
 
 print "La meva jugada és:" , J2
+
+###############################
+#  HACEMOS LAS  CONDICIONES   #
+###############################
 
 if (J1==J2):
 	print "DRAW"
