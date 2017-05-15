@@ -2,8 +2,16 @@
 
 salir = False
 
+##################################
+#  EMPEZAMOS EL BUCLE CON WHILE  #
+##################################
+
 while salir == False:
 	print 'Hola'
+	
+###############################################
+#  PEDIMOS QUE PRESIONE UNA TECLA PARA SALIR  #
+###############################################
 	 
 	tecla = raw_input ('presione una tecla: ')
 	
