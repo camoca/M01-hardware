@@ -1,8 +1,16 @@
 #coding: utf8
 
+##########################
+#  ASIGNAMOS VARIABLES   #
+##########################
+
 num = 1
 contador = 1
 sortir = False
+
+#########################################
+#  GENERAMOS EL BUCLE CON CONDICIONES   #
+#########################################
 
 while (sortir == False):
 	
