@@ -1,7 +1,13 @@
 #coding: utf8
-
+###################################
+#     Definimos los jugadores     #
+###################################
 j1 = raw_input ('J1: piedra, papel o tijera ')
 j2 = raw_input ('J2: piedra, papel o tijera ')
+
+###################################
+#       Creamos las jugadas       #
+###################################
 
 if (j1 == "piedra") and (j2 == "piedra"):
 	print "Hay un EMPATE"
