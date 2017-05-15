@@ -1,9 +1,17 @@
 #coding: utf8
 
+##################################
+#  GENERAMOS UNA JUGADA ALEATORIA#
+##################################
+
 from random import randint
 salir =False
 while (salir== False):
 	palo= randint (1,4)
+	
+#####################
+#  ASIGNAMOS PALOS  #
+#####################
 
 	if (palo == 1):
 		palos = "PICAS"
@@ -35,6 +43,10 @@ while (salir== False):
 	J1= randint (1,13)
 	J2= randint (1,13)
 	
+#######################
+#  ASIGNAMOS NUMEROS  #
+#######################
+	
 	if (J1 == J2):
 		print "Hay un empate"
 
@@ -58,7 +70,10 @@ while (salir== False):
 		
 	print "J1 tiene", J1, "de", palos
 	print "J2 tiene", J2, "de", paloss
-
+	
+#######################
+#  JUGADA DE J1 Y J2  #
+#######################
 		
 	if (J1 > J2):
 		print "GANA J1"
