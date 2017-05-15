@@ -5,6 +5,10 @@ import os
 salir = False
 
 while salir == False:
+		
+##################################
+#  PRINTAMOS EL MENU DE LA CALC  #
+##################################
 	
 	os.system('clear')
 	print 'Que desea hacer el amo ? '
@@ -13,6 +17,10 @@ while salir == False:
 	print '2.- Restar '
 	print '3.- Multiplicar '
 	print '4.- Dividir '
+	
+#######################################
+#  CREAMOS LAS VARIABLES Y PRINTAMOS  #
+#######################################
 	
 	opcion = raw_input('Elija la opcion que desea: ')
 	
