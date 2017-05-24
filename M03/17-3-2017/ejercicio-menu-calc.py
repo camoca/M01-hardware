@@ -2,6 +2,10 @@
 
 import os
 
+##################################
+#  PRINTAMOS EL MENU DE LA CALC  #
+##################################
+
 os.system('clear')
 
 print 'Que desea hacer el amo?'
@@ -12,6 +16,10 @@ print '3.- Multiplicar'
 print '4.- Dividir'
 
 opcion = raw_input("Elije una opcion: ")
+
+####################################
+#  HACEMOS LA CONDICION DE SALIDA  #
+####################################
 
 if (opcion >= "1" and opcion <= "4") or opcion == 'S' or opcion == 's':
 	print "Esta bien"

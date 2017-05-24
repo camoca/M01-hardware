@@ -4,6 +4,10 @@ import os
 
 os.system('clear')
 
+##################################
+#     ASIGNAMOS LAS VARIABLES    #
+##################################
+
 mano_derecha = "móvil"
 mano_izquierda = "bocadillo"
 

@@ -1,8 +1,16 @@
 # coding: utf8
 
+#########################
+#  ASIGNAMOS VARIABLES  #
+#########################
+
 num = 31
 
 Salir = False
+
+#######################################################
+#  EMPEZAMOS EL BUCLE CON WHILE Y PONEMOS CONDICIONES #
+#######################################################
 
 while (Salir == False):
 
@@ -25,6 +33,10 @@ while (Salir == False):
   J2 = "Piedra"
   
  if (J1 == "Piedra" and J2 == "Tijeras"):
+	
+####################################################################
+#  PONEMOS LOS PRINTS DE QUIEN GANA, QUIEN PIERDE Y SI HAY EMPATE  #
+####################################################################
 	 
   print num, " J1 saca: ",J1, " J2 saca: ",J2, " J1 WIN"
   
@@ -51,6 +63,10 @@ while (Salir == False):
  if ( J1 == J2):
 	 
   print num, " EMPATE "
+
+########################################
+#  SE CUMPLE CONDICION DE SALIDA, SALE #
+########################################
   
  if ( num == 57 ):
 	 
